@@ -193,3 +193,6 @@ void lightup(int matrix[8][8]){
     digitalWrite(col[i], LOW);
   }
 }
+
+// 顯示圖案函式
+// 沒有啦哈哈
